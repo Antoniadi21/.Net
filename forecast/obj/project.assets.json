@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nikit\\forecast\\forecast.csproj",
+      "projectUniqueName": "D:\\тут я кодирую\\лабы\\.Net\\.Net\\.Net\\forecast\\forecast.csproj",
       "projectName": "forecast",
-      "projectPath": "C:\\Users\\nikit\\forecast\\forecast.csproj",
+      "projectPath": "D:\\тут я кодирую\\лабы\\.Net\\.Net\\.Net\\forecast\\forecast.csproj",
       "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nikit\\forecast\\obj\\",
+      "outputPath": "D:\\тут я кодирую\\лабы\\.Net\\.Net\\.Net\\forecast\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
