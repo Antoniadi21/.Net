@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kfCKoKmWwS18aRpPYqisDa6XDV0b5eQGO5JltC414Wk=",
+  "Source": "forecast.webapi",
+  "BasePath": "_content/forecast.webapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
