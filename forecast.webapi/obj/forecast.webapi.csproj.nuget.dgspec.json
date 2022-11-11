@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\forecast.webapi.csproj": {}
+    "d:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\forecast.webapi.csproj": {}
   },
   "projects": {
-    "D:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\forecast.webapi.csproj": {
+    "d:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\forecast.webapi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\forecast.webapi.csproj",
+        "projectUniqueName": "d:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\forecast.webapi.csproj",
         "projectName": "forecast.webapi",
-        "projectPath": "D:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\forecast.webapi.csproj",
+        "projectPath": "d:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\forecast.webapi.csproj",
         "packagesPath": "C:\\Users\\nikit\\.nuget\\packages\\",
-        "outputPath": "D:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\obj\\",
+        "outputPath": "d:\\ICodeHere\\labs\\true_dotnet\\.Net\\forecast.webapi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nikit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -43,6 +43,22 @@
             "Microsoft.AspNetCore.Mvc.Versioning.ApiExplorer": {
               "target": "Package",
               "version": "[5.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "target": "Package",
+              "version": "[7.0.0, )"
             },
             "Serilog.AspNetCore": {
               "target": "Package",
